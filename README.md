@@ -9,5 +9,12 @@ Commands | Permission | Description
 ---------|---------|------------
 /autosell | autosell.command | Toggle autosell
 
+## Features
+
+- Can toggle autosell!
+- Sells a player's inventory when the inventory becomes full!
+- Configurable messages!
+- Works with [AutoInv](https://poggit.pmmp.io/p/AutoInv)
+
 ## Credits
 - [Rushil13579](https://github.com/Rushil13579)
