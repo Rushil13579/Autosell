@@ -5,4 +5,5 @@ branches:
 projects:
   Autosell:
     path: ""
+    icon: Autosell.png
 ...
