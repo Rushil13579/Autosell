@@ -1,0 +1,28 @@
+# Configuration file for Autosell by Rushil13579
+
+# Use '&' for color
+
+# Variables
+# {prefix} -> Plugin preifix
+# {amount} -> Total amount for which the items were sold
+
+# Message sent to players who do not have permission to use this autosell command
+# Permission is autosell.command
+autosell-no-permission-msg: "{prefix} &cYou do not have permission to use this command"
+
+# Message sent when a player enables autosell
+autosell-enabled-msg: "{prefix} &7Autosell has been &aENABLED"
+
+# Message sent when a player disables autosell
+autosell-disabled-msg: "{prefix} &7Autosell has been &cDISABLED"
+
+# Message sent when autosell sell's a players inventory
+autosell-sold-msg: "{prefix} &7Autosell has sold your inventory for &6{amount}$"
+
+# Item & Price list for autosell
+# "Itemid:meta": sellprice
+prices:
+  "1:0": 2 # Stone
+  "3:0": 1 # Normal Dirt
+  "3:1": 1 # Coarse Dirt
+  "57:0": 100 # Diamond Block
