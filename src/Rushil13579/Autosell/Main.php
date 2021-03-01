@@ -32,7 +32,7 @@ class Main extends PluginBase implements Listener {
   }
 
   /**
-  *@priority HIGEHST
+  *@priority HIGHEST
   **/
 
   public function onBreak(BlockBreakEvent $event){
